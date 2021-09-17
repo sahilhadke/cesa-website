@@ -2,6 +2,23 @@
     include 'includes/header.php';
 ?>
 
+<style>
+
+    #team .row{
+        width:100%;
+    }
+    .team-img{
+        background:transparent !important;
+    }
+    .team-img img{
+        width:auto;
+    }
+    #team .info{
+        max-width:300px;
+        margin: 0 auto;
+    }
+    </style>
+
 <body>
 
     <!-- =====================================
@@ -41,11 +58,8 @@
                                 <div class="o-hidden mw-800">
                                     <h3>Powerful awesome design of worldwide websites</h3>
                                     <p class="slider-text">We’re full service which means we’ve got you covered on design and content right through to digital. You’ll form a lasting relationship with us, collaboration.</p>
-                                    <a href="#0" class="butn butn-bord-trans mt-50">
-                                            <span>Get Started</span>
-                                        </a>
-                                    <a href="#0" class="butn butn-tra butn-bord-trans mt-50">
-                                            <span>Contact Us</span>
+                                    <a href="#events" class="butn butn-bord-trans mt-50" style="width:300px;">
+                                            <span>Check out our Events</span>
                                         </a>
                                 </div>
                             </div>
@@ -108,6 +122,7 @@
 
     <!-- =====================================
         ==== Start services -->
+        <div id="events">
     <section id="services" class="services text-center bg-gray section-padding" data-scroll-index="2">
         <div class="container">
             <div class="section-head">
@@ -115,41 +130,43 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum tincidunt consectetur. In mauris dolor</p>
             </div>
             <div class="row">
+
                 <div class="col-md-4 col-sm-12 col-xs-12 ">
                     <div class="box-icon-left items">
                         <span class="icon"><i class="fa fa fa-paint-brush"></i></span>
                         <div class="cont">
                             <h5 class="mb-10">Cultural</h5>
                             <p class="pb-10">A decade ago, we founded Melinda with the goal of creating meaningful digital experiences.</p>
-                            <a href="#0" class="box-icon-btn"><span>events</span></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                    <div class="box-icon-left items">
-                        <span class="icon"><i class="fas fa-laptop-code"></i></span>
-                        <div class="cont">
-                            <h5 class="mb-10">Technical</h5>
-                            <p class="pb-10">A decade ago, we founded Melinda with the goal of creating meaningful digital experiences.</p>
-                            <a href="#0" class="box-icon-btn"><span>events</span></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                    <div class="box-icon-left items">
-                        <span class="icon"><i class="fas fa-volleyball-ball"></i></span>
-                        <div class="cont">
-                            <h5 class="mb-10">Sports</h5>
-                            <p class="pb-10">A decade ago, we founded Melinda with the goal of creating meaningful digital experiences.</p>
-                            <a href="#0" class="box-icon-btn"><span>events</span></a>
+                            <a href="cultural.php" class="box-icon-btn"><span>VIEW EVENTS</span></a>
                         </div>
                     </div>
                 </div>
 
+                    <div class="col-md-4 col-sm-12 col-xs-12">
+                        <div class="box-icon-left items">
+                            <span class="icon"><i class="fas fa-laptop-code"></i></span>
+                            <div class="cont">
+                                <h5 class="mb-10">Technical</h5>
+                                <p class="pb-10">A decade ago, we founded Melinda with the goal of creating meaningful digital experiences.</p>
+                                <a href="technical.php" class="box-icon-btn"><span>VIEW EVENTS</span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12 col-xs-12">
+                        <div class="box-icon-left items">
+                            <span class="icon"><i class="fas fa-volleyball-ball"></i></span>
+                            <div class="cont">
+                                <h5 class="mb-10">Sports</h5>
+                                <p class="pb-10">A decade ago, we founded Melinda with the goal of creating meaningful digital experiences.</p>
+                                <a href="sports.php" class="box-icon-btn"><span>VIEW EVENTS</span></a>
+                            </div>
+                        </div>
+                    </div>
 
             </div>
         </div>
     </section>
+</div>
     <!-- End services ====
         ======================================= -->
 
@@ -181,7 +198,7 @@
                     <div class="col-md-6">
                         <div class="item">
                             <div class="team-img">
-                                <img src="img/team/1.jpg" alt="">
+                                <img src="https://dummyimage.com/300x300/aaa/000" alt="">
                             </div>
                             <div class="info">
                                 <div>
@@ -197,9 +214,6 @@
                                         <a href="#0" class="icon">
                                                 <i class="fab fa-linkedin-in"></i>
                                             </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-google-plus-g"></i>
-                                            </a>
                                     </div>
                                 </div>
                             </div>
@@ -209,7 +223,7 @@
                     <div class="col-md-6">
                         <div class="item">
                             <div class="team-img">
-                                <img src="img/team/2.jpg" alt="">
+                                <img src="https://dummyimage.com/300x300/aaa/000" alt="">
                             </div>
                             <div class="info">
                                 <div>
@@ -225,9 +239,6 @@
                                         <a href="#0" class="icon">
                                                 <i class="fab fa-linkedin-in"></i>
                                             </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-google-plus-g"></i>
-                                            </a>
                                     </div>
                                 </div>
                             </div>
@@ -241,7 +252,7 @@
                 <div class="about" style="margin: 0 auto;">
                     <div class="info text-center">
 
-                        <a href="#0" class="butn">
+                        <a href="team.php" class="butn">
                             <span>VIEW ALL MEMBERS</span>
                         </a>
                     </div>
@@ -295,45 +306,6 @@
         ======================================= -->
 
 
-
-    <!-- start sponsor ====
-        ======================================= -->
-    <section class="sponsors">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-2 col-6">
-                    <div class="img">
-                        <img src="img/sponsors/logo-01.png" alt="">
-                    </div>
-                </div>
-                <div class="col-md-2 col-6">
-                    <div class="img">
-                        <img src="img/sponsors/logo-02.png" alt="">
-                    </div>
-                </div>
-                <div class="col-md-2 col-6">
-                    <div class="img">
-                        <img src="img/sponsors/logo-03.png" alt="">
-                    </div>
-                </div>
-                <div class="col-md-2 col-6">
-                    <div class="img">
-                        <img src="img/sponsors/logo-04.png" alt="">
-                    </div>
-                </div>
-                <div class="col-md-2 col-6">
-                    <div class="img">
-                        <img src="img/sponsors/logo-05.png" alt="">
-                    </div>
-                </div>
-                <div class="col-md-2 col-6">
-                    <div class="img">
-                        <img src="img/sponsors/logo-06.png" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
 
     <!-- =====================================

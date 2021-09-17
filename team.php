@@ -4,6 +4,30 @@
 
 <style>
 
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align:center;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #4e54c8;
+  color: white;
+}
+
     .navbar{
         background: #4e54c8 !important;
     }
@@ -38,188 +62,39 @@
         include 'includes/nav.php';
     ?>
 
-    <!-- End Navbar ====
-        ======================================= -->
-
-
-    <!-- End services ====
-        ======================================= -->
-
-
-
-    <!-- =====================================
-        ==== Start Works -->
-
-
-    <!-- End Works ====
-        ======================================= -->
-
-
-
-
-    <!-- =====================================
-        ==== Start Teams -->
-
 
 
 
     <section id="team" class="team section-padding" data-scroll-index="4">
         <div class="container">
-            <div class="row">
 
-                <div class="section-head text-center col-sm-12">
+
+
+<div class="section-head text-center col-sm-12">
                     <h4>CESA Core Team</h4>
                     <p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tel ullamcorper mattis.</p>
                 </div>
 
-                <div class="row flex-team" style="display:flex;justify-content:center;">
-                        <div class="item">
-                            <div class="team-img">
-                                <img src="https://dummyimage.com/200x200/aaa/000" alt="">
-                            </div>
-                            <div class="info">
-                                <div>
-                                    <h6>Akshada Bhandari</h6>
-                                    <span>President</span>
-                                    <div class="social">
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-facebook-f"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-twitter"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-linkedin-in"></i>
-                                            </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+        <table id="customers">
+  <tr>
+    <th>Post</th>
+    <th>Name</th>
+    <th>Class</th>
+    <th>Contact No.</th>
+    <th>Email</th>
+  </tr>
+  <tr>
+    <td>President</td>
+    <td>Akshada Bhandari</td>
+    <td>BE 1</td>
+    <td>9359788097</td>
+    <td>akshada3654@gmail.com</td>
+  </tr>
+ 
+</table>
 
-                        <div class="item">
-                            <div class="team-img">
-                                <img src="https://dummyimage.com/200x200/aaa/000" alt="">
-                            </div>
-                            <div class="info">
-                                <div>
-                                    <h6>Digvijay Jagtap</h6>
-                                    <span>Vice President</span>
-                                    <div class="social">
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-facebook-f"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-twitter"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-linkedin-in"></i>
-                                            </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-                </div>
-
-                <div class="row flex-team" style="display:flex;justify-content:center;">
-                        <div class="item">
-                            <div class="team-img">
-                                <img src="https://dummyimage.com/200x200/aaa/000" alt="">
-                            </div>
-                            <div class="info">
-                                <div>
-                                    <h6>Akshada Bhandari</h6>
-                                    <span>President</span>
-                                    <div class="social">
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-facebook-f"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-twitter"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-linkedin-in"></i>
-                                            </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="team-img">
-                                <img src="https://dummyimage.com/200x200/aaa/000" alt="">
-                            </div>
-                            <div class="info">
-                                <div>
-                                    <h6>Digvijay Jagtap</h6>
-                                    <span>Vice President</span>
-                                    <div class="social">
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-facebook-f"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-twitter"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-linkedin-in"></i>
-                                            </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="team-img">
-                                <img src="https://dummyimage.com/200x200/aaa/000" alt="">
-                            </div>
-                            <div class="info">
-                                <div>
-                                    <h6>Digvijay Jagtap</h6>
-                                    <span>Vice President</span>
-                                    <div class="social">
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-facebook-f"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-twitter"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-linkedin-in"></i>
-                                            </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="team-img">
-                                <img src="https://dummyimage.com/200x200/aaa/000" alt="">
-                            </div>
-                            <div class="info">
-                                <div>
-                                    <h6>Digvijay Jagtap</h6>
-                                    <span>Vice President</span>
-                                    <div class="social">
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-facebook-f"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-twitter"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-linkedin-in"></i>
-                                            </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-                </div>
-
-            </div>
         </div>
+    
     </section>
 
     <!-- End Teams ====

@@ -3,7 +3,7 @@
 
             <!-- Logo -->
             <a class="logo" href="index.php">
-                <img src="img/logo-light.png" alt="logo">          
+                <h4 style="color:#fff;">CESA</h4>        
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -20,10 +20,10 @@
                         <a class="nav-link light" href="sports.php" >Sports Events</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="sports.php" >Technical Events</a>
+                        <a class="nav-link" href="technical.php" >Technical Events</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="sports.php" >Cultural Events</a>
+                        <a class="nav-link" href="cultural.php" >Cultural Events</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="team.php" >Team</a>

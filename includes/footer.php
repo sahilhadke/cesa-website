@@ -38,11 +38,11 @@
                             <h3>USEFUL LINKS</h3>
                         </div>
                         <ul class="footer-widget-list">
-                            <li><a href="">Sports Events</a></li>
-                            <li><a href="">Technical Events</a></li>
-                            <li><a href="">Cultural Events</a></li>
-                            <li><a href="">CESA Core Team</a></li>
-                            <li><a href="">FAQs</a></li>
+                            <li><a href="sports.php">Sports Events</a></li>
+                            <li><a href="technical.php">Technical Events</a></li>
+                            <li><a href="cultural.php">Cultural Events</a></li>
+                            <li><a href="team.php">CESA Core Team</a></li>
+                            <li><a href="#">FAQs</a></li>
                         </ul>
                     </div>
                 </div>
@@ -69,13 +69,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <p>Copyright &copy; 2019 Sodic. All Rights Reserved</p>
+                        <p>Copyright &copy; 2021 CESA. All Rights Reserved</p>
                     </div>
                     <div class="col-lg-6">
                         <ul class="foot-links">
-                            <li><a href="">Home </a></li>
-                            <li><a href="">Terms & Condition </a></li>
-                            <li><a href="">Contact us </a></li>
+                            <li><a href="index.php">Home </a></li>
+                            <li><a href="contact.php">Contact us </a></li>
                             <li><a href="">Privacy Policy</a></li>
                         </ul>
                     </div>

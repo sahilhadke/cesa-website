@@ -71,7 +71,7 @@
             <div class="row">
 
                 <div class="section-head text-center col-sm-12">
-                    <h4>Sports Events</h4>
+                    <h4>Cultural Events</h4>
                     <p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tel ullamcorper mattis.</p>
                 </div>
 
@@ -82,7 +82,7 @@
                 <div class="gallery full-width">
 
                     <!-- gallery item -->
-                    <a href="sports-event-1.php">
+                    <a href="cultural-event-1.php">
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
                                 <img src="https://dummyimage.com/600x400/aaa/000" alt="image">
@@ -92,7 +92,7 @@
                                             <h3>Event Name</h3>
                                             <p>Event description</p>
                                         </div>
-                                        <a href="sports-event-1.php">
+                                        <a href="cultural-event-1.php" >
                                                 <span class="icon"><i class="fas fa-angle-right"></i></span>
                                             </a>
                                     </div>
@@ -101,7 +101,7 @@
                         </div>
                     </a>
 
-                    <a href="sports-event-2.php">
+                    <a href="cultural-event-2.php">
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
                                 <img src="https://dummyimage.com/600x400/aaa/000" alt="image">
@@ -111,7 +111,7 @@
                                             <h3>Event Name</h3>
                                             <p>Event description</p>
                                         </div>
-                                        <a href="sports-event-2.php">
+                                        <a href="cultural-event-2.php" >
                                                 <span class="icon"><i class="fas fa-angle-right"></i></span>
                                             </a>
                                     </div>
