@@ -1,12 +1,4 @@
 <?php
-//Import PHPMailer classes into the global namespace
-//These must be at the top of your script, not inside a function
-use PHPMailer\PHPMailer\PHPMailer;
-use PHPMailer\PHPMailer\SMTP;
-use PHPMailer\PHPMailer\Exception;
-
-//Load Composer's autoloader
-require '../vendor/autoload.php';
 
 
 function validate_input($data) {
@@ -93,37 +85,17 @@ $emailBody = <<<EMAIL
 </table>
 EMAIL;
 
-//Create an instance; passing `true` enables exceptions
-$mail = new PHPMailer(true);
+$to = "sahil.hadke@gmail.com";
+$subject = "HTML email";
 
-try {
-    //Server settings
-    $mail->SMTPDebug = 0;                      
-    $mail->isSMTP();                                           
-    $mail->Host       = 'smtp.gmail.com';                   
-    $mail->SMTPAuth   = true;     
-    $mail->SMTPSecure = 'ssl';                           
-    $mail->Username   = 'mrgamez123456789@gmail.com';                   
-    $mail->Password   = 'YPDvKQmYeMFGUF3';                             
-    // $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;           
-    $mail->Port       = 465;                                    
+$headers = "MIME-Version: 1.0" . "\r\n";
+$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
-    //Recipients
-    $mail->setFrom('mrgamez123456789@gmail.com');
-    $mail->addAddress('sahilhadke@gmail.com');
+// More headers
+$headers .= 'From: <sahil.hadke@gmail.com>' . "\r\n";
+$headers .= 'Cc: myboss@example.com' . "\r\n";
 
-
-    //Content
-    $mail->isHTML(true);                                  
-    $mail->Subject = 'Here is the subject';
-    $mail->Body    = $emailBody;
-    $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
-
-    $mail->send();
-    echo 'Message has been sent';
-} catch (Exception $e) {
-    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
-}
+mail($to,$subject,$message,$headers);
 
 
 ?>
