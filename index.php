@@ -56,8 +56,8 @@
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="o-hidden mw-800">
-                                    <h3>Powerful awesome design of worldwide websites</h3>
-                                    <p class="slider-text">We’re full service which means we’ve got you covered on design and content right through to digital. You’ll form a lasting relationship with us, collaboration.</p>
+                                    <h3>Computer Engineering Students' Association 2021</h3>
+                                    <p class="slider-text">Cooperation , Support, Innovation and Determination are the backbone of our organization.</p>
                                     <a href="#events" class="butn butn-bord-trans mt-50" style="width:300px;">
                                             <span>Check out our Events</span>
                                         </a>
@@ -89,7 +89,7 @@
                 <div class="col-lg-6">
                     <div class="info section-padding">
                         <h5>Lorem ipsum dolor sit amet</h5>
-                        <h2>Why Participate in Cesa Events</h2>
+                        <h2>Why Participate in CESA 2k21</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper luctus nec ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus
                             leo.</p>
                         <ul class="info-list">
@@ -107,9 +107,6 @@
                             </li>
                         </ul>
 
-                        <a href="#0" class="butn">
-                                <span>LEARN MORE</span>
-                            </a>
                     </div>
                 </div>
             </div>
@@ -136,7 +133,7 @@
                         <span class="icon"><i class="fa fa fa-paint-brush"></i></span>
                         <div class="cont">
                             <h5 class="mb-10">Cultural</h5>
-                            <p class="pb-10">A decade ago, we founded Melinda with the goal of creating meaningful digital experiences.</p>
+                            <p class="pb-10">blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
                             <a href="cultural.php" class="box-icon-btn"><span>VIEW EVENTS</span></a>
                         </div>
                     </div>
@@ -147,7 +144,7 @@
                             <span class="icon"><i class="fas fa-laptop-code"></i></span>
                             <div class="cont">
                                 <h5 class="mb-10">Technical</h5>
-                                <p class="pb-10">A decade ago, we founded Melinda with the goal of creating meaningful digital experiences.</p>
+                                <p class="pb-10">blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
                                 <a href="technical.php" class="box-icon-btn"><span>VIEW EVENTS</span></a>
                             </div>
                         </div>
@@ -157,7 +154,7 @@
                             <span class="icon"><i class="fas fa-volleyball-ball"></i></span>
                             <div class="cont">
                                 <h5 class="mb-10">Sports</h5>
-                                <p class="pb-10">A decade ago, we founded Melinda with the goal of creating meaningful digital experiences.</p>
+                                <p class="pb-10">blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
                                 <a href="sports.php" class="box-icon-btn"><span>VIEW EVENTS</span></a>
                             </div>
                         </div>
@@ -187,18 +184,18 @@
 
     <section id="team" class="team section-padding" data-scroll-index="4">
         <div class="container">
-            <div class="row">
+            <div class="row" style="margin-left:0;margin-right:0;" >
 
-                <div class="section-head text-center col-sm-12">
-                    <h4>CESA Core Team</h4>
-                    <p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tel ullamcorper mattis.</p>
+                <div class="section-head text-center col-sm-12" >
+                    <h4>Meet Our Team!</h4>
+                    <p>blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
                 </div>
 
-                <div class="row">
+                <div class="row" style="margin-left:0;margin-right:0;" >
                     <div class="col-md-6">
                         <div class="item">
                             <div class="team-img">
-                                <img src="https://dummyimage.com/300x300/aaa/000" alt="">
+                                <img src="https://dummyimage.com/400x400/aaa/000" alt="">
                             </div>
                             <div class="info">
                                 <div>
@@ -223,7 +220,7 @@
                     <div class="col-md-6">
                         <div class="item">
                             <div class="team-img">
-                                <img src="https://dummyimage.com/300x300/aaa/000" alt="">
+                                <img src="https://dummyimage.com/400x400/aaa/000" alt="">
                             </div>
                             <div class="info">
                                 <div>

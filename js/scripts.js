@@ -265,51 +265,8 @@ $(window).on("load", function() {
     });
 
 
-    // contact form validator
-    $('#contact-form').validator();
 
-    $('#contact-form').on('submit', function(e) {
-        if (!e.isDefaultPrevented()) {
-            var url = "contact.php";
-
-            $.ajax({
-                type: "POST",
-                url: url,
-                data: $(this).serialize(),
-                success: function(data) {
-                    var messageAlert = 'alert-' + data.type;
-                    var messageText = data.message;
-
-                    var alertBox = '<div class="alert ' + messageAlert + ' alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>' + messageText + '</div>';
-                    if (messageAlert && messageText) {
-                        $('#contact-form').find('.messages').html(alertBox);
-                        $('#contact-form')[0].reset();
-                    }
-                }
-            });
-            return false;
-        }
-    });
-
-    //yt player
-    $('#video-background').YTPlayer({
-        videoId: 'CzWS9UMMCNA',
-        fitToBackground: false,
-        mute: true,
-        pauseOnScroll: false,
-        playerVars: {
-            modestbranding: 0,
-            autoplay: 1,
-            controls: 0,
-            showinfo: 0,
-            wmode: 'transparent',
-            branding: 0,
-            rel: 0,
-            autohide: 0,
-            loop: 1,
-            origin: window.location.origin
-        }
-    });
+   
 
 });
 

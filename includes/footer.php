@@ -54,9 +54,9 @@
                             <h3>CONTACT US</h3>
                         </div>
                         <ul>
-                            <li>2659 King Autostrad Streat, Toronto, Canada</li>
-                            <li>1 (800) 1462 2248</li>
-                            <li>info@company.com</li>
+                            <li>AISSMS IOIT<br>RB Motilal Kennedy Rd, k near RTO, Sangamvadi, Pune, Maharashtra 411001</li>
+                          
+                            <li><a href="mailto:ioit.cesa_president@aissmsioit.org">ioit.cesa_president@aissmsioit.org</a></li>
                         </ul>
                     </div>
                 </div>
@@ -121,8 +121,6 @@
     <!-- isotope.pkgd.min js -->
     <script src="js/isotope.pkgd.min.js"></script>
 
-    <!-- validator js -->
-    <script src="js/validator.js"></script>
 
     <!-- custom scripts -->
     <script src="js/scripts.js"></script>

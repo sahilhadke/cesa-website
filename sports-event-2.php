@@ -53,7 +53,7 @@
                 <div class="col-lg-6">
                     <div class="info section-padding">
                         <h5>Sports Event</h5>
-                        <h2>Event Name</h2>
+                        <h2>LUDO</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper luctus nec ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus
                             leo.</p>
                         <ul class="info-list">
@@ -85,75 +85,6 @@
             </div>
         </div>
     </section>
-    <!-- End About ====
-        ======================================= -->
-
-
-
-    <!-- =====================================
-        ==== Start services -->
-   
-    <!-- End services ====
-        ======================================= -->
-
-
-
-    <!-- =====================================
-        ==== Start Works -->
-
-
-    <!-- End Works ====
-        ======================================= -->
-
-
-
-
-    <!-- =====================================
-        ==== Start Teams -->
-
-    
-    <!-- End Teams ====
-        ======================================= -->
-
-
-    <!-- =====================================
-        ==== Start video -->
-   
-
-    <!-- End video ====
-        ======================================= -->
-
-
-
-    <!-- =====================================
-        ==== Start Testimonials-Grid -->
-
-
-    <!-- End Testimonials-Grid ====
-        ======================================= -->
-
-
-    <!-- =====================================
-        ==== Start Blog -->
-
-
-    <!-- End Blog ====
-        ======================================= -->
-
-
-
-    <!-- start sponsor ====
-        ======================================= -->
-   
-
-
-    <!-- =====================================
-        ==== end sponsor -->
-
-
-
-    <!-- =====================================
-        ==== Start Contact -->
 
     <div id="register-now">
         <section id="contact" class="page-contact section-padding" data-scroll-index="6">
@@ -224,7 +155,7 @@
                                         <div class="form-group">
                                             <i class="far fa-comment-dots"></i>
                                             <select>
-                                                <option value="sports2">Sports 2
+                                                <option value="sports2">LUDO
                                             </option>
                                             </select>
                                         </div>

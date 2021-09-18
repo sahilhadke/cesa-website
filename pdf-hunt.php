@@ -53,7 +53,7 @@
                 <div class="col-lg-6">
                     <div class="info section-padding">
                         <h5>Technical Event</h5>
-                        <h2>Event Name</h2>
+                        <h2>PDF Hunt</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper luctus nec ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus
                             leo.</p>
                         <ul class="info-list">
@@ -85,82 +85,12 @@
             </div>
         </div>
     </section>
-    <!-- End About ====
-        ======================================= -->
-
-
-
-    <!-- =====================================
-        ==== Start services -->
-   
-    <!-- End services ====
-        ======================================= -->
-
-
-
-    <!-- =====================================
-        ==== Start Works -->
-
-
-    <!-- End Works ====
-        ======================================= -->
-
-
-
-
-    <!-- =====================================
-        ==== Start Teams -->
-
-    
-    <!-- End Teams ====
-        ======================================= -->
-
-
-    <!-- =====================================
-        ==== Start video -->
-   
-
-    <!-- End video ====
-        ======================================= -->
-
-
-
-    <!-- =====================================
-        ==== Start Testimonials-Grid -->
-
-
-    <!-- End Testimonials-Grid ====
-        ======================================= -->
-
-
-    <!-- =====================================
-        ==== Start Blog -->
-
-
-    <!-- End Blog ====
-        ======================================= -->
-
-
-
-    <!-- start sponsor ====
-        ======================================= -->
-   
-
-
-    <!-- =====================================
-        ==== end sponsor -->
-
-
-
-    <!-- =====================================
-        ==== Start Contact -->
-
     <div id="register-now">
         <section id="contact" class="page-contact section-padding" data-scroll-index="6">
             <div class="container">
                 <div class="section-head text-center col-sm-12">
                     <h4>Register Now!</h4>
-                    <p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tel ullamcorper mattis.</p>
+                    <p>Please Enter your details below to register.</p>
                 </div>
 
                 <div class="row">
@@ -168,32 +98,33 @@
                         <div class="item row">
                             <span class="icon col-2 col-sm-2"><i class="fas fa-rupee-sign"></i></span>
                             <div class="content col-10 col-sm-10">
-                                <h3>Registration Charges</h3>
+                                <h3>Price</h3>
                                 <br>
                                 <p>INR. 100</p>
                             </div>
                         </div>
 
-                        <div class="item row">
-                            <span class="icon col-2 col-sm-2"><i class="fas fa-gift"></i></span>
-                            <div class="content col-10 col-sm-10">
-                                <h3>Price</h3>
-                                <br>
-                                <p>INR. 1000</p>
-                            </div>
-                        </div>
+                        
 
                         <div class="item row">
                             <span class="icon col-2 col-sm-2"><i class="far fa-envelope"></i></span>
                             <div class="content col-10 col-sm-10">
-                                <h3>E-mail Us</h3>
-                                <p>Support : info@company.com</p>
-                                <p>Sales : info@example.com</p>
+                                <h3>Registration Related Queires</h3>
+                                <p>Rajashree : phone number</p>
+                            </div>
+                        </div>
+                        <div class="item row">
+                            <span class="icon col-2 col-sm-2"><i class="far fa-envelope"></i></span>
+                            <div class="content col-10 col-sm-10">
+                                <h3>Event Related Queries</h3>
+                                <p>Sahil : phone number</p><br>
+                                <p>Sameer : phone number</p><br>
+                                <p>Prarthana : phone number</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-8">
-                        <form class="form" id="contact-form" method="post" action="contact.php">
+                        <form class="form" id="contact-form" method="post" action="includes/register.php">
 
                             <div class="messages"></div>
 
@@ -203,28 +134,28 @@
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <i class="far fa-user"></i>
-                                            <input id="form_name" type="text" name="name" placeholder="your Name..." required="required" data-error="Firstname is required.">
+                                            <input id="form_name" type="text" name="name" placeholder="Your Name..." required="required" data-error="Firstname is required.">
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <i class="fas fa-mobile-alt"></i>
-                                            <input id="form_email" type="text" name="phone" placeholder="Cell phone..." required="required" data-error="Valid email is required.">
+                                            <input id="form_email" type="text" name="phone" placeholder="Phone Number..." required="required" data-error="Valid email is required.">
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <i class="far fa-envelope"></i>
-                                            <input id="form_subject" type="email" name="email" placeholder="Email Adress...">
+                                            <input id="form_subject" type="email" name="email" placeholder="Email Address...">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <i class="far fa-comment-dots"></i>
-                                            <select>
-                                                <option value="tech2">Tech 2
+                                            <i class="fas fa-laptop-code"></i>
+                                            <select name="event">
+                                                <option value="PDF Hunt">PDF Hunt
                                             </option>
                                             </select>
                                         </div>
@@ -232,9 +163,13 @@
                                     <div class="col-md-12">
                                         <div class="form-group">
                                             <i class="far fa-comment"></i>
-                                            <textarea id="form_message" name="message" placeholder="Your Message" rows="4" required="required" data-error="Your message is required."></textarea>
+                                            <textarea id="form_message" name="message" placeholder="Your Branch & Class (Eg. SE Computer Shift 2)" rows="4" required="required" data-error="Your message is required."></textarea>
                                             <div class="help-block with-errors"></div>
                                         </div>
+                                    </div>
+
+                                    <div class="col-md-12">
+                                        <div class="g-recaptcha" data-sitekey="your_site_key"></div>
                                     </div>
 
                                     <div class="col-md-12">

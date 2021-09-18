@@ -85,7 +85,7 @@
                     <a href="cultural-event-1.php">
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
-                                <img src="https://dummyimage.com/600x400/aaa/000" alt="image">
+                                <img src="https://dummyimage.com/600x600/aaa/000" alt="image">
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <div class="cont v-middle">
@@ -104,7 +104,7 @@
                     <a href="cultural-event-2.php">
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
-                                <img src="https://dummyimage.com/600x400/aaa/000" alt="image">
+                                <img src="https://dummyimage.com/600x600/aaa/000" alt="image">
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <div class="cont v-middle">
