@@ -75,6 +75,7 @@
                     <p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tel ullamcorper mattis.</p>
                 </div>
 
+        <div style="overflow-x:auto">
         <table id="customers">
   <tr>
     <th>Post</th>
@@ -90,8 +91,16 @@
     <td>9359788097</td>
     <td>akshada3654@gmail.com</td>
   </tr>
+  <tr>
+    <td>President</td>
+    <td>Akshada Bhandari</td>
+    <td>BE 1</td>
+    <td>9359788097</td>
+    <td>akshada3654@gmail.com</td>
+  </tr>
  
 </table>
+</div>
 
         </div>
     

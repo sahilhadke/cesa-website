@@ -98,7 +98,7 @@
                         <div class="item row">
                             <span class="icon col-2 col-sm-2"><i class="fas fa-rupee-sign"></i></span>
                             <div class="content col-10 col-sm-10">
-                                <h3>Price</h3>
+                                <h3>Cash Price</h3>
                                 <br>
                                 <p>INR. 100</p>
                             </div>
@@ -109,7 +109,7 @@
                         <div class="item row">
                             <span class="icon col-2 col-sm-2"><i class="far fa-envelope"></i></span>
                             <div class="content col-10 col-sm-10">
-                                <h3>Registration Related Queires</h3>
+                                <h3>Registration Related Queries</h3>
                                 <p>Rajashree : phone number</p>
                             </div>
                         </div>
