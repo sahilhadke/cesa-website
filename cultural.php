@@ -4,67 +4,25 @@
 
 <body>
 
-    <!-- =====================================
-        ==== Start Loading -->
 
     <div class="loading">
         <div class="load-circle">
         </div>
     </div>
 
-    <!-- End Loading ====
-        ======================================= -->
-
-
-    <!-- =====================================
-        ==== Start Navbar -->
-
     
     <?php 
         include 'includes/nav.php';
     ?>
 
-    <!-- End Navbar ====
-        ======================================= -->
+    <style>
 
+    .navbar{
+        background: #4e54c8 !important;
+    }
 
-    <!-- =====================================
-        ==== Start Header -->
-        <header class="header slider-fade slider-style-1" data-scroll-index="0">
-        <div class="owl-carousel owl-theme">
-        <div class="item bg-img" data-overlay-dark="7" data-background="img/slider/slide-002.png">
-                <div class="v-middle caption">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="o-hidden mw-800">
-                                    <h3>Creat unique strategy for business services</h3>
-                                    <p class="slider-text">We’re full service which means we’ve got you covered on design and content right through to digital. You’ll form a lasting relationship with us, collaboration.</p>
-                                    
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        </style>
 
-        </div>
-    </header>
-
-    <!-- End Header ====
-        ======================================= -->
-
-
-    <!-- =====================================
-        ==== Start About -->
-    
-    <!-- End services ====
-        ======================================= -->
-
-
-
-    <!-- =====================================
-        ==== Start Works -->
     
     <section id="portfolio" class="works section-padding" data-scroll-index="3">
         <div class="container">
@@ -82,17 +40,16 @@
                 <div class="gallery full-width">
 
                     <!-- gallery item -->
-                    <a href="cultural-event-1.php">
+                    <a href="WebFlix.php">
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
-                                <img src="https://dummyimage.com/600x600/aaa/000" alt="image">
+                                <img src="https://dummyimage.com/540x540/aaa/000" alt="image">
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <div class="cont v-middle">
-                                            <h3>Event Name</h3>
-                                            <p>Event description</p>
+                                            <h3>WebFlix</h3>
                                         </div>
-                                        <a href="cultural-event-1.php" >
+                                        <a href="WebFlix.php" >
                                                 <span class="icon"><i class="fas fa-angle-right"></i></span>
                                             </a>
                                     </div>
@@ -101,17 +58,16 @@
                         </div>
                     </a>
 
-                    <a href="cultural-event-2.php">
+                    <a href="Scribble.php" >
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
-                                <img src="https://dummyimage.com/600x600/aaa/000" alt="image">
+                                <img src="https://dummyimage.com/540x540/aaa/000" alt="image">
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <div class="cont v-middle">
-                                            <h3>Event Name</h3>
-                                            <p>Event description</p>
+                                            <h3>Scribble</h3>
                                         </div>
-                                        <a href="cultural-event-2.php" >
+                                        <a href="Scribble.php" >
                                                 <span class="icon"><i class="fas fa-angle-right"></i></span>
                                             </a>
                                     </div>

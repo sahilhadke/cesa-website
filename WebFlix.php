@@ -52,8 +52,8 @@
 
                 <div class="col-lg-6">
                     <div class="info section-padding">
-                        <h5>Technical Event</h5>
-                        <h2>PDF Hunt</h2>
+                        <h5>Cultural Event</h5>
+                        <h2>WebFlix</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper luctus nec ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus
                             leo.</p>
                         <ul class="info-list">
@@ -74,7 +74,7 @@
                         <a href="#" class="butn">
                                 <span>Rule Book</span>
                             </a>
-                            <a href="https://forms.gle/HkZifbRKBuzaJyiq7" target=_blank class="butn">
+                            <a href="#" target=_blank class="butn">
                                 <span>Register Now!</span>
                             </a>
                     </div>

@@ -40,7 +40,7 @@
                 <div class="gallery full-width">
 
                     <!-- gallery item -->
-                    <a href="tech-event-1.php">
+                    <a href="developer-hacks.php">
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
                                 <img src="https://dummyimage.com/540x540/aaa/000" alt="image">
@@ -49,7 +49,7 @@
                                         <div class="cont v-middle">
                                             <h3>Devloper Hacks</h3>
                                         </div>
-                                        <a href="tech-event-1.php" >
+                                        <a href="developer-hacks.php" >
                                                 <span class="icon"><i class="fas fa-angle-right"></i></span>
                                             </a>
                                     </div>

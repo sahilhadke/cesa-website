@@ -74,7 +74,7 @@
                     <div class="col-lg-6">
                         <ul class="foot-links">
                             <li><a href="index.php">Home </a></li>
-                            <li><a href="contact.php">Contact us </a></li>
+                            <!-- <li><a href="contact.php">Contact us </a></li> -->
                             <li><a href="">Privacy Policy</a></li>
                         </ul>
                     </div>
