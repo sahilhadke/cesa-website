@@ -8,6 +8,13 @@
         background: #4e54c8 !important;
     }
 
+
+
+    .about .img img{
+        left:0;
+        max-width:100%;
+    }
+
 </style>
 
 <body>
@@ -45,7 +52,7 @@
 
     <!-- =====================================
         ==== Start About -->
-    <section id="about" class="about" data-scroll-index="1" style="margin-top:70px;">
+    <section id="about" class="about" data-scroll-index="1" style="margin-top:130px;">
         <div class="container">
             <div class="row">
                
@@ -54,27 +61,32 @@
                     <div class="info section-padding">
                         <h5>Technical Event</h5>
                         <h2>Developer Hacks</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper luctus nec ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus
-                            leo.</p>
+                        <p>Developer Hacks - 21 aims to uplift the three primary sectors of the Indian economy with the
+efficient use of technology. Students can bring up innovative solutions which can help tackle
+the problems faced in the respective domains. These are the three major themes of
+Developer Hacks - 21.</p>
                         <ul class="info-list">
-                            <li><i class="fas fa-check"></i>
-                                <p>Business consulting services dolor sit amet, consectetur.</p>
+                        <li><i class="fas fa-check"></i>
+                                <p>DATE: 16th Sept. to 28 Sept. 2021</p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>Social media marketing Agency dolor sit amet, consectetur.</p>
+                                <p>1st Winner: Rs 2000 </p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>Purchase strategy plans dolor sit amet, consectetur sodic.</p>
+                                <p>2nd Winner: Rs 1500</p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>Design plans for dolor sit amet, consectetur adipisicing elit.</p>
+                                <p>3rd Winner: Rs 1000</p>
+                            </li>
+                            <li><i class="fas fa-check"></i>
+                                <p>Contact: gdsc.aissmsioit@gmail.com</p>
                             </li>
                         </ul>
 
-                        <a href="#" class="butn">
+                        <a href="rulebooks/RuleBook_DeveloperHacks-21.pdf" target=_blank class="butn">
                                 <span>Rule Book</span>
                             </a>
-                            <a href="#" target=_blank class="butn">
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMAJK9N_RyIhLbS7sN_7yhkUZQUweNGromoDrxzqbhHH-yYg/viewform?usp=sf_link" target=_blank class="butn">
                                 <span>Register Now!</span>
                             </a>
                     </div>
@@ -82,7 +94,7 @@
 
                 <div class="col-lg-6">
                     <div class="img">
-                        <img src="img/about/hero-2.png" alt="">
+                        <img src="img/events/technical/1.jpeg" alt="">
                     </div>
                 </div>
             </div>

@@ -29,8 +29,8 @@
             <div class="row">
 
                 <div class="section-head text-center col-sm-12">
-                    <h4>Sports Events</h4>
-                    <p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tel ullamcorper mattis.</p>
+                    <h4>Sangharsha</h4>
+                    <p>Are you good enough to beat them all?</p>
                 </div>
 
 
@@ -43,7 +43,7 @@
                     <a href="BGMI.php">
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
-                                <img src="https://dummyimage.com/540x540/aaa/000" alt="image">
+                                <img src="img/events/sports/BGMI.jpg" alt="image">
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <div class="cont v-middle">
@@ -61,7 +61,7 @@
                     <a href="ludo.php" >
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
-                                <img src="https://dummyimage.com/540x540/aaa/000" alt="image">
+                                <img src="img/events/sports/Ludo.jpg" alt="image">
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <div class="cont v-middle">

@@ -88,22 +88,18 @@
 
                 <div class="col-lg-6">
                     <div class="info section-padding">
-                        <h5>Lorem ipsum dolor sit amet</h5>
-                        <h2>Why Participate in CESA 2k21</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper luctus nec ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus
-                            leo.</p>
+                        <h5>CESA 2k21</h5>
+                        <h2>Why Participate in our Events</h2>
+                        <p>Don’t you think you should also have fun while learning at college? Gone are those days when college life was only about academics and students focused on attending lectures and writing exams. CESA 2k21 brings to you 6 amazing events and prizes worth Rs.5,000+</p>
                         <ul class="info-list">
                             <li><i class="fas fa-check"></i>
-                                <p>Business consulting services dolor sit amet, consectetur.</p>
+                                <p>Win Amazing Prizes.</p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>Social media marketing Agency dolor sit amet, consectetur.</p>
+                                <p>Showcase your Skills.</p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>Purchase strategy plans dolor sit amet, consectetur sodic.</p>
-                            </li>
-                            <li><i class="fas fa-check"></i>
-                                <p>Design plans for dolor sit amet, consectetur adipisicing elit.</p>
+                                <p>Get to know your Strengths.</p>
                             </li>
                         </ul>
 
@@ -124,7 +120,7 @@
         <div class="container">
             <div class="section-head">
                 <h4>Our Events</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum tincidunt consectetur. In mauris dolor</p>
+                <p>This year participate in 6 different events and win exciting prizes!</p>
             </div>
             <div class="row">
 
@@ -132,8 +128,8 @@
                     <div class="box-icon-left items">
                         <span class="icon"><i class="fa fa fa-paint-brush"></i></span>
                         <div class="cont">
-                            <h5 class="mb-10">Cultural</h5>
-                            <p class="pb-10">blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
+                            <h5 class="mb-10">Gandharva</h5>
+                            <p class="pb-10">Events designed for entertainment and enjoyment.</p>
                             <a href="cultural.php" class="box-icon-btn"><span>VIEW EVENTS</span></a>
                         </div>
                     </div>
@@ -143,8 +139,8 @@
                         <div class="box-icon-left items">
                             <span class="icon"><i class="fas fa-laptop-code"></i></span>
                             <div class="cont">
-                                <h5 class="mb-10">Technical</h5>
-                                <p class="pb-10">blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
+                                <h5 class="mb-10">Avishkar</h5>
+                                <p class="pb-10">Test your technical skills in these breathtaking events! </p>
                                 <a href="technical.php" class="box-icon-btn"><span>VIEW EVENTS</span></a>
                             </div>
                         </div>
@@ -153,8 +149,8 @@
                         <div class="box-icon-left items">
                             <span class="icon"><i class="fas fa-volleyball-ball"></i></span>
                             <div class="cont">
-                                <h5 class="mb-10">Sports</h5>
-                                <p class="pb-10">blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
+                                <h5 class="mb-10">Sangharsha</h5>
+                                <p class="pb-10">Are you good enough to beat them all?</p>
                                 <a href="sports.php" class="box-icon-btn"><span>VIEW EVENTS</span></a>
                             </div>
                         </div>
@@ -188,59 +184,9 @@
 
                 <div class="section-head text-center col-sm-12" >
                     <h4>Meet Our Team!</h4>
-                    <p>blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
+                    <p>Thanks to our amazing team for arranging CESA 2k21!</p>
                 </div>
 
-                <div class="row" style="margin-left:0;margin-right:0;" >
-                    <div class="col-md-6">
-                        <div class="item">
-                            <div class="team-img">
-                                <img src="https://dummyimage.com/400x400/aaa/000" alt="">
-                            </div>
-                            <div class="info">
-                                <div>
-                                    <h6>Akshada Bhandari</h6>
-                                    <span>President</span>
-                                    <div class="social">
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-facebook-f"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-twitter"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-linkedin-in"></i>
-                                            </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="item">
-                            <div class="team-img">
-                                <img src="https://dummyimage.com/400x400/aaa/000" alt="">
-                            </div>
-                            <div class="info">
-                                <div>
-                                    <h6>Digvijay Jagtap</h6>
-                                    <span>Vice President</span>
-                                    <div class="social">
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-facebook-f"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-twitter"></i>
-                                            </a>
-                                        <a href="#0" class="icon">
-                                                <i class="fab fa-linkedin-in"></i>
-                                            </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
 
 
 
@@ -269,8 +215,8 @@
         <div class="container text-center">
             <!-- content info -->
             <div class="info">
-                <h5>KEEP WORKING ON AWESOME AND UNIQUE IDEAS.</h5>
-                <h3>We are always with you to make your perfect project</h3>
+                <h5>CESA 2k21</h5>
+                <h3>Check out our video on YouTube!</h3>
                 <a href="#"><i class="far fa-play-circle"></i></a>
             </div>
         </div>

@@ -15,19 +15,14 @@
                 <div class="col-lg-6">
                     <div class="info mb-md50">
                         <h3>ABOUT US</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                        <p>Cooperation, Support, Innovation and Determination are the backbone of our organization</p>
                         <div class="social">
-                            <a href="#0" class="icon">
-                                    <i class="fab fa-facebook-f"></i>
+                            
+                                <a href="#0" class="icon" style="background:rgb(255, 53, 53);">
+                                    <i class="fab fa-youtube" style="font-size:16px;"></i>
                                 </a>
-                            <a href="#0" class="icon">
-                                    <i class="fab fa-twitter"></i>
-                                </a>
-                            <a href="#0" class="icon">
-                                    <i class="fab fa-google-plus-g"></i>
-                                </a>
-                            <a href="#0" class="icon">
-                                    <i class="fab fa-linkedin-in"></i>
+                            <a href="#0" class="icon" style="background:#cd486b;">
+                                    <i class="fab fa-instagram" style="font-size:16px;"></i>
                                 </a>
                         </div>
                     </div>

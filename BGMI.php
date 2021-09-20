@@ -8,6 +8,14 @@
         background: #4e54c8 !important;
     }
 
+
+
+    .about .img img{
+        left:0;
+        max-width:100%;
+    }
+
+
 </style>
 
 <body>
@@ -45,7 +53,7 @@
 
     <!-- =====================================
         ==== Start About -->
-    <section id="about" class="about" data-scroll-index="1" style="margin-top:70px;">
+    <section id="about" class="about" data-scroll-index="1" style="margin-top:130px;">
         <div class="container">
             <div class="row">
                
@@ -54,35 +62,37 @@
                     <div class="info section-padding">
                         <h5>Sports Event</h5>
                         <h2>BGMI</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper luctus nec ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus
-                            leo.</p>
                         <ul class="info-list">
                             <li><i class="fas fa-check"></i>
-                                <p>Business consulting services dolor sit amet, consectetur.</p>
+                                <p>DATE: 24/09/2021</p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>Social media marketing Agency dolor sit amet, consectetur.</p>
+                                <p>TIME: 2:00 PM</p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>Purchase strategy plans dolor sit amet, consectetur sodic.</p>
+                                <p>Solo Winner: Rs 200 </p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>Design plans for dolor sit amet, consectetur adipisicing elit.</p>
+                                <p>Squad Winner: Rs 500</p>
                             </li>
                         </ul>
 
-                        <a href="#" target=_blank class="butn">
+                        <a href="rulebooks/BGMI_Rulebook_CESA_2021.pdf" target=_blank class="butn">
                                 <span>Rule Book</span>
                             </a>
-                            <a href="#" target=_blank class="butn">
-                                <span>Register Now!</span>
+                            <br>
+                            <a href="https://forms.gle/YwXd2aQ2KvCtoUjFA" target=_blank class="butn">
+                                <span>Register Now! (Squad)</span>
+                            </a> <br>
+                            <a href="https://forms.gle/aywPDyq3rJzuP3CV6" target=_blank class="butn">
+                                <span>Register Now! (Solo)</span>
                             </a>
                     </div>
                 </div>
 
                 <div class="col-lg-6">
                     <div class="img">
-                        <img src="img/about/hero-2.png" alt="">
+                        <img src="img/events/sports/BGMI.jpg" alt="">
                     </div>
                 </div>
             </div>

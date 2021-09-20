@@ -8,6 +8,13 @@
         background: #4e54c8 !important;
     }
 
+
+
+    .about .img img{
+        left:0;
+        max-width:100%;
+    }
+
 </style>
 
 <body>
@@ -45,7 +52,7 @@
 
     <!-- =====================================
         ==== Start About -->
-    <section id="about" class="about" data-scroll-index="1" style="margin-top:70px;">
+    <section id="about" class="about" data-scroll-index="1" style="margin-top:130px;">
         <div class="container">
             <div class="row">
                
@@ -54,24 +61,19 @@
                     <div class="info section-padding">
                         <h5>Technical Event</h5>
                         <h2>PDF Hunt</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper luctus nec ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus leo. ullamcorper mattis, pulvinar dapibus
-                            leo.</p>
                         <ul class="info-list">
-                            <li><i class="fas fa-check"></i>
-                                <p>Business consulting services dolor sit amet, consectetur.</p>
+                        <li><i class="fas fa-check"></i>
+                                <p>DATE: 23/09/2021</p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>Social media marketing Agency dolor sit amet, consectetur.</p>
+                                <p>TIME: 2:00 PM</p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>Purchase strategy plans dolor sit amet, consectetur sodic.</p>
-                            </li>
-                            <li><i class="fas fa-check"></i>
-                                <p>Design plans for dolor sit amet, consectetur adipisicing elit.</p>
+                                <p>1st Winner: Rs 500 </p>
                             </li>
                         </ul>
 
-                        <a href="#" class="butn">
+                        <a href="rulebooks/PDF HUNT Rulebook.pdf" target=_blank class="butn">
                                 <span>Rule Book</span>
                             </a>
                             <a href="https://forms.gle/HkZifbRKBuzaJyiq7" target=_blank class="butn">
@@ -82,7 +84,7 @@
 
                 <div class="col-lg-6">
                     <div class="img">
-                        <img src="img/about/hero-2.png" alt="">
+                        <img src="img/events/technical/PDF Hunt.jpeg" alt="">
                     </div>
                 </div>
             </div>

@@ -17,13 +17,13 @@
                         <a class="nav-link active" href="index.php" >Home</a>
                     </li>
                     <li class="nav-item light">
-                        <a class="nav-link light" href="sports.php" >Sports Events</a>
+                        <a class="nav-link light" href="sports.php" >Sangharsha</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="technical.php" >Technical Events</a>
+                        <a class="nav-link" href="technical.php" >Avishkar</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="cultural.php" >Cultural Events</a>
+                        <a class="nav-link" href="cultural.php" >Gandharva</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="team.php" >Team</a>
