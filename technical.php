@@ -98,25 +98,6 @@
         ======================================= -->
 
 
-    <!-- =====================================
-        ==== Start video -->
-    <section class="video section-padding valign">
-        <div class="overlay"></div>
-        <div class="container text-center">
-            <!-- content info -->
-            <div class="info">
-                <h5>KEEP WORKING ON AWESOME AND UNIQUE IDEAS.</h5>
-                <h3>We are always with you to make your perfect project</h3>
-                <a href="#"><i class="far fa-play-circle"></i></a>
-            </div>
-        </div>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 283.5 19.6" preserveAspectRatio="none">
-                    <path class="elementor-shape-fill" style="opacity:0.33" d="M0 0L0 18.8 141.8 4.1 283.5 18.8 283.5 0z"></path>
-                    <path class="elementor-shape-fill" style="opacity:0.33" d="M0 0L0 12.6 141.8 4 283.5 12.6 283.5 0z"></path>
-                    <path class="elementor-shape-fill" style="opacity:0.33" d="M0 0L0 6.4 141.8 4 283.5 6.4 283.5 0z"></path>
-                    <path class="elementor-shape-fill" d="M0 0L0 1.2 141.8 4 283.5 1.2 283.5 0z"></path>
-                </svg>
-    </section>
 
 
 <?php 
