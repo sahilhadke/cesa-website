@@ -54,9 +54,13 @@
                 <div class="v-middle caption">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-6">
-                                <div class="o-hidden mw-800">
-                                    <h3>Computer Engineering Students' Association 2021</h3>
+                            <div class="col-md-12 text-center">
+                                <div class="o-hidden mw-800 text-center">
+
+                                <div style="max-width:300px;margin: 10px auto;">
+                                    <img src="img/cesa.png" style="width:100%;">
+                                </div>
+                                    <h3 class="text-center">Computer Engineering Students' Association 2021</h3>
                                     <p class="slider-text">Cooperation , Support, Innovation and Determination are the backbone of our organization.</p>
                                     <a href="#events" class="butn butn-bord-trans mt-50" style="width:300px;">
                                             <span>Check out our Events</span>
