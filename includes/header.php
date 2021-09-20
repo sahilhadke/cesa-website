@@ -7,8 +7,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta name="keywords" content="HTML5 Template sodic onepage themeforest" />
-    <meta name="description" content="sodic - The Creative Onepage Template" />
+    <meta name="keywords" content="CESA 2021 2k21 AISSMS IOIT" />
+    <meta name="description" content="CESA 2k21" />
     <meta name="author" content="" />
 
     <!-- Title  -->
