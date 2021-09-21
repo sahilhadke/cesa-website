@@ -1,3 +1,9 @@
+<script>
+
+    window.location.href="https://cesa.ioit.acm.org/";
+
+    </script>
+
 <!DOCTYPE html>
 <html lang="zxx">
 
